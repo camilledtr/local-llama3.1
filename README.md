@@ -10,22 +10,22 @@ https://ollama.com/download
 
 ###
 1. Retrieve the llama3.1 model
-`ollama run llama3.1`
+```ollama run llama3.1```
 
 ##
 ## Run the chatbot UI
 
 1. *(First setup)* Create a python venv
-`python3 -m venv venv`
+```python3 -m venv venv```
 
 ###
 2. Activate the python venv
-`source venv/bin/activate`
+```source venv/bin/activate```
 
 ###
 3. *(First setup)* If necessary, install the required packages
-`pip install -r requirements.txt`
+```pip install -r requirements.txt```
 
 ###
 4. Run the chatbot in a browser
-`streamlit run main.py`
+```streamlit run main.py```
