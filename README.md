@@ -29,7 +29,7 @@ source venv/bin/activate
 ```
 
 ###
-3. *(First setup)* If necessary, install the required packages
+3. *(First setup)* Install the required packages
 ```
 pip install -r requirements.txt
 ```
